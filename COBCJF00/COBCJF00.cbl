@@ -1,7 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID.     COBCJF00.
        DATE-WRITTEN.   11/20/19.
-       AUTHOR.         CURTIS FORD.
+       AUTHOR.         CURTIS FORDDDD.
        DATE-COMPILED.  
 
       ****************************************
